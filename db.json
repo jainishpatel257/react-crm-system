@@ -1,0 +1,27 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "email": "admin@gmail.com",
+        "password": "123456"
+      }
+    ],
+    "customers": [
+      {
+        "id": "Mk4yqF1G8Pg",
+        "name": "jainish",
+        "company": "efive",
+        "email": "jainish@gmail.com",
+        "phone": "9327187613",
+        "status": "Active"
+      },
+      {
+        "id": "yBCchS40wlw",
+        "name": "jenish katharotiya",
+        "company": "efive",
+        "email": "jenishkatharotiya2104@gmail.com",
+        "phone": "9327187613",
+        "status": "Inactive"
+      }
+    ]
+  }

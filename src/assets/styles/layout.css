@@ -1,0 +1,22 @@
+.logo{
+    height:64px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    color:#fff;
+    font-size:22px;
+    font-weight:bold;
+}
+
+.content{
+    padding:20px;
+    min-height:calc(100vh - 64px);
+}
+
+@media(max-width:768px){
+
+    .content{
+        padding:10px;
+    }
+
+}
